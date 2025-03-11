@@ -1,8 +1,8 @@
 # Projeto-Estudo: Calculadora 
 
-Calculadora funcional, construída utilizando-se da linguagme Java e da biblioteca grafica Java Swing.  
+Calculadora funcional, construída utilizando-se da linguagem Java e da biblioteca gráfica Java Swing.  
 </br> 
-Capaz de realizar contas matematicas: </br>
+Capaz de realizar contas matemáticas: </br>
 ->Adição (+) </br>
 ->Subtração (-) </br>
 ->Multiplicação (X) </br>
